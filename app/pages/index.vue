@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <h1>🚀 ساختار حرفه‌ای Nuxt 3 با Routing و Components</h1>
+    <h1>🚀 سیستم مدیریت کاربران و کارها (Nuxt 3 + Prisma 7)</h1>
 
     <!-- 
       قابلیت شگفت‌انگیز ناکست (Auto-Imports):
